@@ -2,7 +2,9 @@
     margin: 0: 
     padding: 0;
 }
-
+body{
+  font-family: "Dancing Script", cursive;
+}
 .cabecalho {
     background-color: #424E61;
     color: white;
@@ -11,7 +13,6 @@
     align-items: center;
     padding: 24px 0;
 }
-
 .cabecalho-imagem {
     width: 20%;
 }
